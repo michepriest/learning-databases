@@ -17,6 +17,7 @@
   "homepage": "https://github.com/michepriest/learning-databases#readme",
   "description": "",
   "dependencies": {
+    "knex": "^0.15.2",
     "pg": "^7.5.0"
   }
 }
