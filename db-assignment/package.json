@@ -1,0 +1,22 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michepriest/learning-databases.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michepriest/learning-databases/issues"
+  },
+  "homepage": "https://github.com/michepriest/learning-databases#readme",
+  "description": "",
+  "dependencies": {
+    "pg": "^7.5.0"
+  }
+}
